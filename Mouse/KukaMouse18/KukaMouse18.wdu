@@ -6,9 +6,17 @@ ELEGANT_SCROLL_H.GIF
 ELEGANT_SCROLL_V.GIF
 PC_MouseInteractions.wdg
 FRM_Menu.wdw
+ELEGANT_PICT_APPLY_16_5.GIF
 ELEGANT_PICT_CLOSE_16_5.GIF
 ELEGANT_PICT_MODIFY_16_5.GIF
+IMG\KUKA.PNG
 FRM_Calibrage.wdw
+FRM_Deplacement_Souris.wdw
+FRM_RecupérationPoints.wdw
+ELEGANT_PICT_CANCEL_16_5.GIF
+ELEGANT_PICT_OK_16_5.GIF
+CL_Coordonnees.wdc
+PC_ProceduresGenerales.wdg
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\Elegant.wdy
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_BANNER_BOTTOM.PNG
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_BANNER_TOP.PNG
@@ -34,7 +42,6 @@ C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_EDT_READONLY.PNG
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_FRAME.PNG
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_LIB_MEDIA.PNG
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_ADD_16_5.GIF
-C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_APPLY_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_BACK_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_BROWSE_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_BRWFIRST_H_24_5.GIF
@@ -45,7 +52,6 @@ C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_BRWLAST_H_24_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_BRWLAST_V_24_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_BRWNEXT_H_24_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_BRWNEXT_V_24_5.GIF
-C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_CANCEL_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_COPY_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_CORRECT_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_CUT_16_5.GIF
@@ -61,7 +67,6 @@ C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_LOGOFF_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_NAVIGFORWARD_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_NAVIGNEXT_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_NEW_16_5.GIF
-C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_OK_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_OPEN_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_PARENTFOLDER_16_5.GIF
 C:\WinDev 18\Personnel\Gabarits\170 Elegant\ELEGANT_PICT_PASTE_16_5.GIF
