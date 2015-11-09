@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<DOCUMENT xmlns:SOAP_ENC="http://schemas.xmlsoap.org/soap/encoding/">
+	<MesPoints SOAP_ENC:arrayType="MesPoints[16]">
+		<item href="#id0"/>
+		<item href="#id1"/>
+		<item href="#id2"/>
+		<item href="#id3"/>
+		<item href="#id4"/>
+		<item href="#id5"/>
+		<item href="#id6"/>
+		<item href="#id7"/>
+		<item href="#id8"/>
+		<item href="#id9"/>
+		<item href="#id10"/>
+		<item href="#id11"/>
+		<item href="#id12"/>
+		<item href="#id13"/>
+		<item href="#id14"/>
+		<item href="#id15"/>
+	</MesPoints>
+	<CL_Coordonnees id="id0">
+		<RX>71.2527084</RX>
+		<RY>88.1613083</RY>
+		<RZ>-16.1178322</RZ>
+		<TX>498.738525</TX>
+		<TY>229.002243</TY>
+		<TZ>213.903992</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id1">
+		<RX>71.2526</RX>
+		<RY>88.1613083</RY>
+		<RZ>-16.1179409</RZ>
+		<TX>498.737518</TX>
+		<TY>250.295883</TY>
+		<TZ>374.682983</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id2">
+		<RX>-109.03923</RX>
+		<RY>87.8489</RY>
+		<RZ>155.882172</RZ>
+		<TX>477.854431</TX>
+		<TY>39.5847931</TY>
+		<TZ>381.226196</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id3">
+		<RX>-109.03923</RX>
+		<RY>87.8489</RY>
+		<RZ>155.882172</RZ>
+		<TX>762.462891</TX>
+		<TY>125.99791</TY>
+		<TZ>57.5098419</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id4">
+		<RX>-109.03923</RX>
+		<RY>87.8489</RY>
+		<RZ>155.882172</RZ>
+		<TX>760.271362</TX>
+		<TY>210.10379</TY>
+		<TZ>57.5098419</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id5">
+		<RX>-109.03923</RX>
+		<RY>87.8489</RY>
+		<RZ>155.882172</RZ>
+		<TX>609.696655</TX>
+		<TY>-29.9945374</TY>
+		<TZ>402.051941</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id6">
+		<RX>-84.539978</RX>
+		<RY>16.9413776</RY>
+		<RZ>-178.367538</RZ>
+		<TX>521.791382</TX>
+		<TY>22.6555614</TY>
+		<TZ>348.764191</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id7">
+		<RX>-84.6748123</RX>
+		<RY>17.0098515</RY>
+		<RZ>-178.81749</RZ>
+		<TX>473.824</TX>
+		<TY>625.287354</TY>
+		<TZ>354.454376</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id8">
+		<RX>-84.6748123</RX>
+		<RY>17.0098515</RY>
+		<RZ>-178.81749</RZ>
+		<TX>473.824</TX>
+		<TY>625.287354</TY>
+		<TZ>289.771423</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id9">
+		<RX>0</RX>
+		<RY>0</RY>
+		<RZ>0</RZ>
+		<TX>0</TX>
+		<TY>0</TY>
+		<TZ>0</TZ>
+		<GreeperUtilisation>1</GreeperUtilisation>
+		<GreeperStatus>1</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id10">
+		<RX>-84.6748123</RX>
+		<RY>17.0098515</RY>
+		<RZ>-178.81749</RZ>
+		<TX>716.564819</TX>
+		<TY>-189.350082</TY>
+		<TZ>215.894943</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id11">
+		<RX>62.4497108</RX>
+		<RY>-0.0228644609</RY>
+		<RZ>90.1610718</RZ>
+		<TX>815.940674</TX>
+		<TY>-326.226959</TY>
+		<TZ>370.557526</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id12">
+		<RX>68.4434509</RX>
+		<RY>-0.191750199</RY>
+		<RZ>90.199585</RZ>
+		<TX>675.696472</TX>
+		<TY>-287.099182</TY>
+		<TZ>138.574539</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id13">
+		<RX>68.4434509</RX>
+		<RY>-0.191750199</RY>
+		<RZ>90.199585</RZ>
+		<TX>675.696472</TX>
+		<TY>-286.27597</TY>
+		<TZ>117.393143</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id14">
+		<RX>68.4434509</RX>
+		<RY>-0.191750199</RY>
+		<RZ>90.199585</RZ>
+		<TX>838.405884</TX>
+		<TY>-152.418015</TY>
+		<TZ>148.964722</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id15">
+		<RX>68.4434509</RX>
+		<RY>-0.191750199</RY>
+		<RZ>90.199585</RZ>
+		<TX>772.064758</TX>
+		<TY>-400.826019</TY>
+		<TZ>168.404984</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+</DOCUMENT>

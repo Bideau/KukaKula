@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<DOCUMENT xmlns:SOAP_ENC="http://schemas.xmlsoap.org/soap/encoding/">
+	<MesPoints SOAP_ENC:arrayType="MesPoints[5]">
+		<item href="#id0"/>
+		<item href="#id1"/>
+		<item href="#id2"/>
+		<item href="#id3"/>
+		<item href="#id4"/>
+	</MesPoints>
+	<CL_Coordonnees id="id0">
+		<RX>-114.591278</RX>
+		<RY>13.3875093</RY>
+		<RZ>-78.3313828</RZ>
+		<TX>799.631531</TX>
+		<TY>-144.693726</TY>
+		<TZ>440.179413</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id1">
+		<RX>-114.591278</RX>
+		<RY>13.3875093</RY>
+		<RZ>-78.3313828</RZ>
+		<TX>734.787842</TX>
+		<TY>-190.123688</TY>
+		<TZ>440.179413</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id2">
+		<RX>0</RX>
+		<RY>0</RY>
+		<RZ>0</RZ>
+		<TX>0</TX>
+		<TY>0</TY>
+		<TZ>0</TZ>
+		<GreeperUtilisation>1</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id3">
+		<RX>-114.591278</RX>
+		<RY>13.3875093</RY>
+		<RZ>-78.3313828</RZ>
+		<TX>743.968689</TX>
+		<TY>-190.123688</TY>
+		<TZ>529.875427</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id4">
+		<RX>0</RX>
+		<RY>0</RY>
+		<RZ>0</RZ>
+		<TX>0</TX>
+		<TY>0</TY>
+		<TZ>0</TZ>
+		<GreeperUtilisation>1</GreeperUtilisation>
+		<GreeperStatus>1</GreeperStatus>
+	</CL_Coordonnees>
+</DOCUMENT>
