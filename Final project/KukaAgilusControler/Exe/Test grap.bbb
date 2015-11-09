@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<DOCUMENT xmlns:SOAP_ENC="http://schemas.xmlsoap.org/soap/encoding/">
+	<MesPoints SOAP_ENC:arrayType="MesPoints[3]">
+		<item href="#id0"/>
+		<item href="#id1"/>
+		<item href="#id2"/>
+	</MesPoints>
+	<CL_Coordonnees id="id0">
+		<RX>0</RX>
+		<RY>0</RY>
+		<RZ>71.2527084</RZ>
+		<TX>88.1613083</TX>
+		<TY>-16.1178322</TY>
+		<TZ>498.738525</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id1">
+		<RX>0</RX>
+		<RY>0</RY>
+		<RZ>0</RZ>
+		<TX>0</TX>
+		<TY>0</TY>
+		<TZ>0</TZ>
+		<GreeperUtilisation>1</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+	<CL_Coordonnees id="id2">
+		<RX>0</RX>
+		<RY>0</RY>
+		<RZ>71.2526</RZ>
+		<TX>88.1613083</TX>
+		<TY>-16.1179409</TY>
+		<TZ>498.737518</TZ>
+		<GreeperUtilisation>0</GreeperUtilisation>
+		<GreeperStatus>0</GreeperStatus>
+	</CL_Coordonnees>
+</DOCUMENT>
